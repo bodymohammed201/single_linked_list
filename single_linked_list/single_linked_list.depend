@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1692597725 source:f:\diploma\01_part 1 c programming - copy\19_lecture_19 data structures\single linked list\single_linked_list\linked_list.c
+	"linked_list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1692597952 f:\diploma\01_part 1 c programming - copy\19_lecture_19 data structures\single linked list\single_linked_list\linked_list.h
+	"Platform_Types.h"
+
+1631476735 f:\diploma\01_part 1 c programming - copy\19_lecture_19 data structures\single linked list\single_linked_list\platform_types.h
+
+1692597952 source:f:\diploma\01_part 1 c programming - copy\19_lecture_19 data structures\single linked list\single_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
